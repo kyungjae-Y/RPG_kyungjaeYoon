@@ -1,0 +1,11 @@
+80000
+4
+유민자/1/77/8/4/true
+null/null/null
+오재철/1/66/7/4/true
+null/null/null
+오광철/1/55/6/3/true
+null/null/null
+박재자/1/88/9/5/true
+null/null/null
+0
